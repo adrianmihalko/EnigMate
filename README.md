@@ -33,3 +33,13 @@ If you experience issues:
 ## License
 
 This project is available under the MIT license. See the LICENSE file for more info. 
+
+Please share this page!
+
+Regards,  
+Adrian Mihalko  
+www.mihalko.eu
+
+p.s:
+I **LOVE** coffee! Buy me a coffee at:   
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=89T88ER75BJ9L&currency_code=EUR&source=url)
