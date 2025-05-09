@@ -1,29 +1,13 @@
 # Enigma2 Remote Control App
 
-A simple iOS remote control application for Enigma2-based set-top boxes. This app allows you to control your Enigma2 device over your local network using the OpenWebif API.
+A simple macOS remote control application for Enigma2-based set-top boxes. This app allows you to control your Enigma2 device over your local network using the OpenWebif API.
 
-## Features
-
-- Numeric keypad (0-9) for direct channel input
-- Volume control (Up/Down)
-- Channel control (Up/Down)
-- Simple and intuitive user interface
-- Haptic feedback on button presses
-- Error handling for network issues
+![enigmate screenshot](https://github.com/user-attachments/assets/3daeb5cb-c610-4d70-aa82-28fabe13b9d0)
 
 ## Requirements
 
-- iOS 16.0+
-- Xcode 16.2+
-- Swift 5.0+
-- Enigma2-based set-top box with OpenWebif installed
-
-## Installation
-
-1. Clone this repository
-2. Open `Enigma2Remote.xcodeproj` in Xcode
-3. Select your target device or simulator
-4. Build and run the project
+- macOS 11.0+
+- Enigma2 based set-top box with OpenWebif installed (VU Plus, Dreambox, etc.)
 
 ## Usage
 
@@ -35,18 +19,7 @@ A simple iOS remote control application for Enigma2-based set-top boxes. This ap
 ## Network Requirements
 
 - The app requires local network access to communicate with your Enigma2 box
-- Make sure your iOS device and Enigma2 box are on the same network
-- The app uses HTTP to communicate with the Enigma2 box
-
-## Command Reference
-
-The app uses the following Enigma2 remote control commands:
-
-- Numbers 0-9: Commands 100-109
-- Volume Up: Command 115
-- Volume Down: Command 114
-- Channel Up: Command 402
-- Channel Down: Command 403
+- Make sure your macOS device and Enigma2 box are on the same network
 
 ## Troubleshooting
 
